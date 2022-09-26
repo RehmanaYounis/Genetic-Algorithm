@@ -7,5 +7,5 @@ The Major topics covered are
 4. Population Management
 
 It also includes the implementation of famous Knapsack Problem. The problem is implemented in two ways.
-1. Implementation of core functions of Genetic Algorithm
+1. Core implementation of Genetic Algorithms
 2. Implementing using Pygad library
