@@ -1,5 +1,5 @@
 # Genetic-Algorithm
-This Repo contains a presentation briefly discusses main concepts related to Genetic Algorithms.
+This Repo contains a presentation to briefly discuss main concepts related to Genetic Algorithms.
 The Major topics covered are
 1. Types of Representation
 2. Parent Selection
